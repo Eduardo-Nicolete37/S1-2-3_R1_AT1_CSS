@@ -1,0 +1,16 @@
+.title {
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(72, 71, 71);
+    border-radius: 5%;
+}
+.description {
+    color: whitesmoke;
+    border: 2px solid white;
+    border-radius: 5%;
+
+}
+.footer {
+    color: aquamarine;
+    text-align: center;
+}
